@@ -9,9 +9,9 @@
 | Dataset ID | `760756` |
 | Location | Louisville/Jefferson County, KY-IN |
 | Category | Restaurants |
-| Full dataset size | 15 records |
-| Free sample size | 1 records (6.67%) |
-| Last export | 2026-04-08T04:00:26.854849+00:00 |
+| Full dataset size | 10 records |
+| Free sample size | 1 records (10.0%) |
+| Last export | 2026-04-15T08:42:15.860426+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-louisville-jefferson-county-metro-area-ky-in-us-sample-760756/releases/download/sample-latest/beamstation_760756_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
