@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Louisville/Jefferson County Metro Area, KY-IN, US",
-  "export_job_id": "eede84cb-a7f4-49dc-bd47-e61f8bcfe8af",
+  "export_job_id": "d15c3c25-23e1-4232-ae0f-6ee73d54a543",
   "github_org": "Beamstation-Datasets",
   "id_short": 760756,
   "location_name": "Louisville/Jefferson County, KY-IN",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-louisville-jefferson-county-metro-area-ky-in-us-sample-760756",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/760756/beamstation_760756_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
-  "sample_pct": 6.67,
+  "sample_pct": 10.0,
   "sample_records": 1,
-  "sample_sha256": "043e3bd1161e02bab8e4bf9d7cbf30820fc6ecd1a61537a5dc818ba21a651c5f",
-  "sample_size_bytes": 20217,
-  "total_records": 15,
-  "updated_at": "2026-04-08T04:00:26.854849+00:00"
+  "sample_sha256": "1261d6e8c20c26952c66f5bb0a749036d0b06703f1fac4e91f94ebcf5a8f4304",
+  "sample_size_bytes": 20213,
+  "total_records": 10,
+  "updated_at": "2026-04-15T08:42:15.860426+00:00"
 }
