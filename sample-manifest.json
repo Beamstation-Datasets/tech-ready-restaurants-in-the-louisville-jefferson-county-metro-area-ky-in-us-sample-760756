@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d15c3c25-23e1-4232-ae0f-6ee73d54a543",
+  "export_job_id": "881f7bea-04a2-4a47-bf7a-592d665aed2f",
   "id_short": 760756,
-  "published_at": "2026-04-19T07:52:25Z",
+  "published_at": "2026-04-23T07:09:12Z",
   "repo_name": "tech-ready-restaurants-in-the-louisville-jefferson-county-metro-area-ky-in-us-sample-760756",
   "sample_asset_name": "beamstation_760756_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/760756/beamstation_760756_restaurants-us-louisvillejeffersoncountykyin_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "1261d6e8c20c26952c66f5bb0a749036d0b06703f1fac4e91f94ebcf5a8f4304",
-  "sample_size_bytes": 20213,
-  "total_records": 10
+  "sample_sha256": "f8982aa83bfd72479a0c5d372186ffba95bf62eed13d763f3163977f2364a636",
+  "sample_size_bytes": 20290,
+  "total_records": 4
 }
